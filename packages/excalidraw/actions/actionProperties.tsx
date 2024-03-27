@@ -760,8 +760,14 @@ export const actionChangeFontFamily = register({
         icon: FreedrawIcon,
         testId: "font-family-virgil",
       },
+      // {
+      //   value: FONT_FAMILY.Helvetica,
+      //   text: t("labels.normal"),
+      //   icon: FontFamilyNormalIcon,
+      //   testId: "font-family-normal",
+      // },
       {
-        value: FONT_FAMILY.Helvetica,
+        value: FONT_FAMILY.Muyao,
         text: t("labels.normal"),
         icon: FontFamilyNormalIcon,
         testId: "font-family-normal",
